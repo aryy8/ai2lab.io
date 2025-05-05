@@ -102,7 +102,7 @@ const Index = () => {
           <div className="max-w-3xl mx-auto">
             <h2 className="text-3xl font-bold tracking-tighter mb-8 text-center">About AI²</h2>
             <p className="text-gray-700 mb-4">
-              AI² is a research group & facility under the leadership of Prof. (Dr.) Sandeep Chaurasia (Director, SCSE, MUJ), co-founded by Danush Khanna & Abhilekh Borah.
+              AI² is a research group & facility under the leadership of Prof. (Dr.) Sandeep Chaurasia (Director, Directorate of Corporate Relations and Placements, MUJ), co-founded by Danush Khanna & Abhilekh Borah.
             </p>
             <p className="text-gray-700">
               Our objective is to create an environment where students from all years (1-4) can learn and engage in meaningful AI research, present their research as patents, papers, and receive mentorship that equips them to solve real-world challenges.
